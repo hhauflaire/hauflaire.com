@@ -1,1 +1,0 @@
-This theme contains javascript coding, making use of mootools' accordian. To edit the "about us" tab, simply open "about.txt" and change the text!
